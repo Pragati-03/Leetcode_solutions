@@ -1,10 +1,16 @@
 LinkedList Problems:
-Sorted linkedlist:  https://leetcode.com/problems/merge-two-sorted-lists/
-Palindrome of the list: https://leetcode.com/problems/palindrome-linked-list/
-Merge k sorted list:  https://leetcode.com/problems/merge-k-sorted-lists/
-Rearrange even odd list:  https://leetcode.com/problems/odd-even-linked-list/
-Rearrange list:  https://leetcode.com/problems/reorder-list/
-Rotate linked list: https://leetcode.com/problems/rotate-list/
+
+1. Sorted linkedlist:  https://leetcode.com/problems/merge-two-sorted-lists/
+
+2. Palindrome of the list: https://leetcode.com/problems/palindrome-linked-list/
+   
+3.Merge k sorted list:  https://leetcode.com/problems/merge-k-sorted-lists/
+
+4.Rearrange even odd list:  https://leetcode.com/problems/odd-even-linked-list/
+
+5.Rearrange list:  https://leetcode.com/problems/reorder-list/
+
+6.Rotate linked list: https://leetcode.com/problems/rotate-list/
 
 Trees:
-Sumroot  https://leetcode.com/problems/sum-root-to-leaf-numbers/
+1.Sumroot  https://leetcode.com/problems/sum-root-to-leaf-numbers/
