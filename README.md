@@ -13,4 +13,9 @@ LinkedList Problems:
 6.Rotate linked list: https://leetcode.com/problems/rotate-list/
 
 Trees:
+
 1.Sumroot  https://leetcode.com/problems/sum-root-to-leaf-numbers/
+
+Strings: 
+
+1. Longest palindrome: https://leetcode.com/problems/longest-palindromic-substring/
