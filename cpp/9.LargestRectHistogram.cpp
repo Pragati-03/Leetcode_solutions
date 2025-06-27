@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int largestRectangleArea(vector<int>&height{
+int largestRectangleArea(vector<int>&height){
 	int maxArea=0;
 	stack<int>s;
 	height.push_back(0);
